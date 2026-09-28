@@ -1,10 +1,10 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn[...]
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="158" src="https://raw.githubusercontent.com/Victor2974/Victor2974/main/polar.gif"  />
+<img data-importer="image" align="right" height="158" src="https://i.pinimg.com/originals/43/a3/7f/43a37f37dee174a7548bbb42e25fdcf4.gif"  />
 
 ###
 
@@ -48,18 +48,12 @@
 
 ###
 
-<p data-importer="text" align="left">Victor Ramos | Desenvolvedor  Back-end<br><br>Especializando em Java & Spring.<br><br>"Não te gabes do dia de amanhã, porque não sabes o que o dia trará." [...]
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Victor2974/Victor2974/snake-output/snake.svg" alt="Snake animation" />
+<p data-importer="text" align="left">Victor Ramos | Desenvolvedor  Back-end<br><br>Especializando em Java & Spring.<br><br>"Não te gabes do dia de amanhã, porque não sabes o que o dia trará." — Provérbios 27:1</p>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeI[...]
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
