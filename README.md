@@ -1,65 +1,70 @@
-<h1 align="center">Hi, I'm Victor 👋</h1>
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="center">
-  <strong>Backend Developer in Progress</strong> • Java • Spring Boot • REST APIs
-</p>
+###
 
-<p align="center">
-  <a href="SEU_LINKEDIN_AQUI">LinkedIn</a> •
-  <a href="SEU_EMAIL_AQUI">Email</a>
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Victor2974&locale=pt-br&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Victor2974/Victor2974/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 👨‍💻 About Me
+<img data-importer="image" align="right" height="164" src="https://i.pinimg.com/originals/43/a3/7f/43a37f37dee174a7548bbb42e25fdcf4.gif"  />
 
-I'm an **ADS student focused on Backend Development**, currently building projects with **Java and Spring Boot**.
+###
 
-I enjoy turning problems into practical software solutions. I also have hands-on experience developing **JavaScript automations with Google Apps Script**, creating solutions that reduced manual work and improved data management in real-world processes.
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="32" alt="blender logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
+</div>
 
-Currently focused on:
+###
 
-* ☕ Java & Spring Boot
-* 🌐 REST APIs
-* 🗄️ SQL & Data Persistence
-* 🧩 Object-Oriented Programming
-* 🔧 Git & GitHub
-* 🔄 Agile Development
+<div data-importer="socials" align="center">
+  <a href="victorsousaramos12345@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/victorsouzaramos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="victoramoz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
+  </a>
+</div>
 
-### 🛠️ Tech Stack
+###
 
-**Languages**
+<p data-importer="text" align="left">Victor Ramos | Desenvolvedor  Back-end<br><br>Especializando em Java & Spring.<br><br>"Não te gabes do dia de amanhã, porque não sabes o que o dia trará." — Provérbios 27:1<br><br>📫 Entre em contato: https://www.linkedin.com/in/victorsouzaramos/</p>
 
-`Java` `JavaScript` `Python` `SQL`
+###
 
-**Backend**
+<br clear="both">
 
-`Spring Boot` `Spring Web` `Spring Data JPA` `REST`
+<img data-importer="snake" src="https://raw.githubusercontent.com/Victor2974/Victor2974/snake-output/snake.svg" alt="Snake animation" />
 
-**Databases**
+###
 
-`H2` `MongoDB`
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
-**Tools**
-
-`Git` `GitHub` `Google Apps Script` `Postman`
-
-**Agile**
-
-`Scrum` `Kanban` `Jira`
-
-### 🚀 Featured Project
-
-**Task Management REST API**
-
-Backend application built with Java and Spring Boot, focusing on REST architecture, persistence and clean organization.
-
-`Java` `Spring Boot` `Spring Data JPA` `H2` `REST API`
-
-🔗 **Repository:** Coming soon
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+###
