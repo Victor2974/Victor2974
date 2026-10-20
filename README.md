@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Desenvolvedor Back-end · Java, Spring Boot, APIs REST, SQL" />
+<img src="assets/banner-v2.svg" width="100%" alt="Desenvolvedor Back-end · Java, Spring Boot, APIs REST, SQL" />
 
 <br/>
 
