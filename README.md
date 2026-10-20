@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=200&section=header&text=Victor%20Ramos&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Back-end%20%C2%B7%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Victor Ramos — Desenvolvedor Back-end" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=200&section=header&text=Victor%20Ramos&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Back-end%20%C2%B7%20Java%20e%20Spring%20Boot&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Victor Ramos — Desenvolvedor Back-end" />
 
 <a href="https://github.com/Victor2974">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=APIs+REST+com+Java+e+Spring+Boot;Modelagem+de+dados+com+JPA+e+SQL;Automa%C3%A7%C3%A3o+de+processos+reais;Sites+r%C3%A1pidos+com+Astro%2C+React+e+TypeScript" alt="APIs REST com Java e Spring Boot · Modelagem de dados com JPA e SQL · Automação de processos reais · Sites com Astro, React e TypeScript" />
