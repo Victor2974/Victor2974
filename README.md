@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Victor Ramos — Desenvolvedor Back-end" />
+<img src="assets/banner.svg" width="100%" alt="Desenvolvedor Back-end · Java, Spring Boot, APIs REST, SQL" />
 
 <br/>
 
