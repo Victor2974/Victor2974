@@ -22,6 +22,7 @@
 ### Conquistas
 
 - 🥉 **3º lugar no Hackathon de IA — ATRIA Corp & SENAI** (Semana de Inovação de São Caetano do Sul, out/2026): dashboard de estoque de insumos agrícolas com um agente de IA no n8n que analisa os dados todos os dias e dispara alertas inteligentes no celular.
+
 <br/>
 <img src="assets/min-divider.svg" width="100%" alt="" />
 
