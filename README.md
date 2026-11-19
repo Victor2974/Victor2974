@@ -21,7 +21,7 @@
 
 ### Conquistas
 
-- 🥉 **3º lugar no Hackathon de IA — ATRIA Corp & SENAI** (Semana de Inovação de São Caetano do Sul, out/2026): dashboard de estoque de insumos agrícolas com um agente de IA no n8n que analisa os dados todos os dias e dispara alertas inteligentes no celular.
+- 🥉 **3º lugar no Hackathon de IA — ATRIA Corp & SENAI** (Semana de Inovação de São Caetano do Sul, out/2026): dashboard de estoque de insumos agrícolas com um agente de IA no n8n que analisa os dados todos os dias e dispara alertas inteligentes no celular. [Ver o projeto no ar](https://estoque-em-dia-seven.vercel.app).
 
 <br/>
 <img src="assets/min-divider.svg" width="100%" alt="" />
@@ -36,6 +36,10 @@
   <tr>
     <td width="50%"><a href="https://github.com/Victor2974/Preco_tracker"><img src="assets/min-card-preco.svg" width="100%" alt="03 Price Tracker — Python, Flask, MySQL" /></a></td>
     <td width="50%"><a href="https://github.com/Victor2974/Projeto-Flutter"><img src="assets/min-card-sustentavel.svg" width="100%" alt="04 Calculadora Sustentável — Flutter, Dart" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Victor2974/foco"><img src="assets/min-card-foco.svg" width="100%" alt="05 Foco — extensão de navegador que esconde Shorts, Reels e TikTok. JavaScript, Manifest V3" /></a></td>
+    <td width="50%"><a href="https://github.com/Victor2974/estoque-em-dia"><img src="assets/min-card-estoque.svg" width="100%" alt="06 Estoque em Dia — Hackathon de IA, 3º lugar. TypeScript, Supabase, n8n" /></a></td>
   </tr>
 </table>
 
