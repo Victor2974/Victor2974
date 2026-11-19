@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/Victor2974/foco"><img src="assets/min-card-foco.svg" width="100%" alt="05 Foco — extensão de navegador que esconde Shorts, Reels e TikTok. JavaScript, Manifest V3" /></a></td>
-    <td width="50%"><a href="https://github.com/Victor2974/estoque-em-dia"><img src="assets/min-card-estoque.svg" width="100%" alt="06 Estoque em Dia — Hackathon de IA, 3º lugar. TypeScript, Supabase, n8n" /></a></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
