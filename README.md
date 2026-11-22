@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Victor2974&label=visitas&color=58a6ff&style=flat-square" alt="Visitas ao perfil" />
 </p>
 
-<img src="assets/min-terminal.svg" width="100%" alt="whoami: Victor Ramos, dev back-end e sócio da Relevo, estúdio de sites. Stack: Java, Spring Boot, SQL, TypeScript. Estudando ADS na USCS. Agora: sites sob medida na Relevo. Construindo: CRM de prospecção com agentes de IA. Já fiz a automação dos pedidos da YKZ Confecções." />
+<img src="assets/min-terminal.svg" width="100%" alt="whoami: Victor Ramos, dev back-end que gosta de automatizar processos. Stack: Java, Spring Boot, SQL, TypeScript. Estudando ADS na USCS. Agora: APIs REST com Spring Boot. Construindo: automações com agentes de IA. Já fiz a automação dos pedidos da YKZ Confecções." />
 
 <br/><br/>
 <img src="assets/min-divider.svg" width="100%" alt="" />
